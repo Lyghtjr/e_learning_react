@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/e_learning_react/static/css/main.0bbfc1ae.chunk.css",
+    "main.js": "/e_learning_react/static/js/main.a710c4c2.chunk.js",
+    "main.js.map": "/e_learning_react/static/js/main.a710c4c2.chunk.js.map",
+    "runtime-main.js": "/e_learning_react/static/js/runtime-main.bf43bce4.js",
+    "runtime-main.js.map": "/e_learning_react/static/js/runtime-main.bf43bce4.js.map",
+    "static/css/2.b9b989d7.chunk.css": "/e_learning_react/static/css/2.b9b989d7.chunk.css",
+    "static/js/2.1f3f31ee.chunk.js": "/e_learning_react/static/js/2.1f3f31ee.chunk.js",
+    "static/js/2.1f3f31ee.chunk.js.map": "/e_learning_react/static/js/2.1f3f31ee.chunk.js.map",
+    "index.html": "/e_learning_react/index.html",
+    "static/css/2.b9b989d7.chunk.css.map": "/e_learning_react/static/css/2.b9b989d7.chunk.css.map",
+    "static/css/main.0bbfc1ae.chunk.css.map": "/e_learning_react/static/css/main.0bbfc1ae.chunk.css.map",
+    "static/js/2.1f3f31ee.chunk.js.LICENSE.txt": "/e_learning_react/static/js/2.1f3f31ee.chunk.js.LICENSE.txt",
+    "static/media/abhi.65b19040.jpg": "/e_learning_react/static/media/abhi.65b19040.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf43bce4.js",
+    "static/css/2.b9b989d7.chunk.css",
+    "static/js/2.1f3f31ee.chunk.js",
+    "static/css/main.0bbfc1ae.chunk.css",
+    "static/js/main.a710c4c2.chunk.js"
+  ]
+}
